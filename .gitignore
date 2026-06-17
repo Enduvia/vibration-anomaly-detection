@@ -71,3 +71,36 @@ Testing/
 *.bin
 *.elf
 build/
+# Python ve Streamlit Geçici Dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Sanal Ortam (Virtual Environment)
+venv/
+env/
+.venv/
+
+# Çevre Değişkenleri (MQTT Şifreleri vb. gizli bilgiler için)
+.env
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
