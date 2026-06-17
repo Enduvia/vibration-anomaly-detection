@@ -67,3 +67,7 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+# Arduino/ESP32 Derleme Çöpleri
+*.bin
+*.elf
+build/
